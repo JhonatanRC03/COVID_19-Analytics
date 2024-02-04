@@ -6,12 +6,19 @@ Una entidad gubernamental responsable de la gestión de la salud en un país (PE
 ![image](https://github.com/JhonatanRC03/COVID_19-Analytics/assets/132719375/86271772-7c23-4d79-bdd1-47b36d9a2b95)
 
 Poblaciones:
+
 •		China: 1421.86M
+
 •	India: 1383.11M
+
 •		Estados Unidos: 334.32M
+
 •	Indonesia: 269.58M
+
 •		Pakistán: 223.29M
+
 •		Perú: 32.82M
+
 Población total: 7762.50 millones
 
 Se puede observar que China e India tienen las poblaciones más grandes, seguidas por Estados Unidos, Indonesia y Pakistán. Perú tiene una población significativamente menor en comparación.
@@ -33,11 +40,15 @@ Progresión de casos en el Perú: El gráfico lineal muestra la progresión de l
 Análisis:
 
 El gráfico muestra la evolución de los nuevos casos diarios de COVID-19 desde febrero de 2020 hasta febrero de 2024.
+
 Análisis del gráfico: La línea azul Representa los nuevos casos diarios de COVID-19 en el Perú se observa un patrón oscilante con un pico muy pronunciado alrededor de enero del 2022, lo que indica un aumento significativo en los casos nuevos durante ese período hasta abril del 2022.
+
 El aumento significativo de casos de COVID-19 en Perú entre enero y abril de 2022 podría deberse a varios factores. 
+
 Variantes del virus: Las nuevas variantes del virus, como la variante Ómicron, pueden ser más transmisibles y causar un aumento en el número de casos.
 La variante Ómicron del COVID-19 fue confirmada en Perú el 19 de diciembre de 2021
 Esto produjo como consecuencia que se incluyera una vacuna de refuerzo es por eso que en abril comienza a bajar los casos de coronavirus
+
 Factores socioeconómicos: Los factores sociales y económicos, como la economía informal, pueden dificultar la contención de la propagación del virus.
 
 ## ¿Cuál es la evolución del índice de letalidad del Covid-19 en el país, comparado con los países con los índices históricos más elevados?
@@ -47,7 +58,9 @@ Factores socioeconómicos: Los factores sociales y económicos, como la economí
 Análisis:
 
 Pico de Letalidad: La tasa de letalidad en Perú, representada por la línea verde, alcanzó su pico alrededor de junio de 2020 con una tasa cercana al 12.62%.
+
 Tendencia a la Baja: Desde el pico, la tasa de letalidad ha mostrado una tendencia general a la baja.
+
 Estabilización: La tasa de letalidad se estabilizó alrededor del 6% hacia enero de 2022 y se mantuvo relativamente constante hasta enero de 2024.
 
 ##	Desde una perspectiva demográfica, ¿cuáles son las características que tienen un mayor impacto en el índice de letalidad de un país?
@@ -57,7 +70,9 @@ Estabilización: La tasa de letalidad se estabilizó alrededor del 6% hacia ener
 Análisis: 
 
 Expectativa de Vida: Esta característica tiene la mayor importancia con un 29.0%. Esto sugiere que la expectativa de vida es un factor muy relevante en el conjunto de datos analizado.
+
 Densidad Poblacional: La densidad poblacional tiene una importancia del 26.9%, lo que indica que también es un factor significativo.
+
 Esto sugiere que la expectativa de vida y la concentración de población son relevantes en la incidencia de la letalidad del Covid19.
 
 ## ¿Cómo ha evolucionado el número de muertes por COVID-19 a lo largo del tiempo?
