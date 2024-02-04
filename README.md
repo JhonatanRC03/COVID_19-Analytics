@@ -21,6 +21,7 @@ Se puede observar que China e India tienen las poblaciones más grandes, seguida
 ![image](https://github.com/JhonatanRC03/COVID_19-Analytics/assets/132719375/348abf9c-1546-4935-9fef-85462023397c)
 
 Análisis:
+
 Distribución mundial de casos: El gráfico circular muestra que Perú tiene 4.53M de casos, lo que representa el 6% del total mundial.
 
 Progresión de casos en el Perú: El gráfico lineal muestra la progresión de los casos a lo largo del tiempo en varios países, incluido Perú. La línea de Perú muestra una tendencia ascendente moderada, lo que indica un aumento constante en el número de casos.
