@@ -27,7 +27,7 @@ Se puede observar que China e India tienen las poblaciones más grandes, seguida
 
 ![image](https://github.com/JhonatanRC03/COVID_19-Analytics/assets/132719375/348abf9c-1546-4935-9fef-85462023397c)
 
-Análisis:
+### Análisis:
 
 Distribución mundial de casos: El gráfico circular muestra que Perú tiene 4.53M de casos, lo que representa el 6% del total mundial.
 
@@ -37,7 +37,7 @@ Progresión de casos en el Perú: El gráfico lineal muestra la progresión de l
 
 ![image](https://github.com/JhonatanRC03/COVID_19-Analytics/assets/132719375/82af7941-0cf6-4c8b-b5d9-91f8e6f920d0)
 
-###Análisis:
+### Análisis:
 
 El gráfico muestra la evolución de los nuevos casos diarios de COVID-19 desde febrero de 2020 hasta febrero de 2024.
 
@@ -55,7 +55,7 @@ Factores socioeconómicos: Los factores sociales y económicos, como la economí
 
 ![image](https://github.com/JhonatanRC03/COVID_19-Analytics/assets/132719375/33c8b2f3-c6c6-4311-af1f-4c2e711de2b5)
 
-###Análisis:
+### Análisis:
 
 Pico de Letalidad: La tasa de letalidad en Perú, representada por la línea verde, alcanzó su pico alrededor de junio de 2020 con una tasa cercana al 12.62%.
 
@@ -67,7 +67,7 @@ Estabilización: La tasa de letalidad se estabilizó alrededor del 6% hacia ener
 
 ![image](https://github.com/JhonatanRC03/COVID_19-Analytics/assets/132719375/475f6782-ba09-4b7e-ba55-1b4d6bd410b7)
 
-###Análisis: 
+### Análisis: 
 
 Expectativa de Vida: Esta característica tiene la mayor importancia con un 29.0%. Esto sugiere que la expectativa de vida es un factor muy relevante en el conjunto de datos analizado.
 
@@ -82,6 +82,6 @@ Esto sugiere que la expectativa de vida y la concentración de población son re
 https://github.com/JhonatanRC03/COVID_19-Analytics/assets/132719375/8501a7fd-8187-4960-80a3-6ad4386681e7
 
 
-###Análisis:
+### Análisis:
 
 En los primeros días de la pandemia, China experimentó un alto número de muertes, pero a medida que avanzaba el tiempo, Estados Unidos superó a China en abril del 2020 y se convirtió en el país con la mayor cantidad de muertes por COVID-19, manteniendo esa posición hasta el final del periodo analizado. Estados Unidos registró el mayor número de fallecimientos a nivel mundial. En el caso de Perú, nuestro análisis revela que se ubicó en el séptimo lugar del mundo en términos de mortalidad, considerando todo el periodo hasta enero de 2024.
