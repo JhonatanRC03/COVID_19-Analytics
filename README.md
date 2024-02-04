@@ -77,11 +77,10 @@ Esto sugiere que la expectativa de vida y la concentración de población son re
 
 ## ¿Cómo ha evolucionado el número de muertes por COVID-19 a lo largo del tiempo?
 
-![image]
+
 
 https://github.com/JhonatanRC03/COVID_19-Analytics/assets/132719375/8501a7fd-8187-4960-80a3-6ad4386681e7
 
-(https://github.com/JhonatanRC03/COVID_19-Analytics/assets/132719375/ea6701d2-1c4b-45e8-9bfe-22d7649bbcde)
 
 Análisis:
 
